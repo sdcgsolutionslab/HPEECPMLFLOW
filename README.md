@@ -1,2 +1,2 @@
 # HPEECPMLFLOW
-HPE Ezmeral MLOps with MLflow repo
+HPE Ezmeral MLOps with MLflow
